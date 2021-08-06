@@ -1,0 +1,17 @@
+{
+  "help": {
+    "title": "Commands list"
+  },
+  "serverinfo": {
+    "title": "%guild%'s info",
+    "members": "Total members: ",
+    "count": "Users: %users%/ Bots: %bots%",
+    "created": "Guild created: <t:%timestamp%:f>",
+    "channels": {
+      "name": "Channels count",
+      "categories": "Categories: ",
+      "voice": "Voice: ",
+      "text": "Text: "
+    }
+  }
+}

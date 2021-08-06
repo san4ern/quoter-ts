@@ -1,0 +1,19 @@
+{
+  "name": "quoter-ts",
+  "version": "1.0.0",
+  "description": "Quoter's version written in TypeScript",
+  "main": "dist/index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "@discordoo/collection": "^1.0.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "start": "node .",
+    "run": "tsc && node ."
+  },
+  "author": "san4ouZ",
+  "license": "ISC"
+}
